@@ -29,9 +29,9 @@ body {
 
 .wrapper {
   position: absolute;
-  bottom: -25vh; /* Position 10vh from the bottom */
+  top: 28vh; /* Starts the position from the middle of the viewport */
   left: 50%;
-  transform: translateX(-50%) scale(0.2); /* Center horizontally and scale down */
+  transform: translate(-50%, 0) scale(0.2); /* Center horizontally */
   width: 15rem;
   height: 30rem;
 }
