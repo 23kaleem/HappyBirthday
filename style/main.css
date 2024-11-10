@@ -31,7 +31,7 @@ body {
   position: absolute;
   bottom: -25vh; /* Position 10vh from the bottom */
   left: 50%;
-  transform: translateX(-50%) scale(0.5); /* Center horizontally and scale down */
+  transform: translateX(-50%) scale(0.2); /* Center horizontally and scale down */
   width: 15rem;
   height: 30rem;
 }
